@@ -1,9 +1,9 @@
 <h1> Hello There 👋</h1>
 
-<p>I'm a <b>Data Engineer/Analytics Engineer</b> with a background on System Analysis and Development. I have one year of hands-on experience working as a <b>Data Analyst</b>. During this time, I have extensively utilized Power BI as my primary tool for data analysis. Additionally, I have proficiently employed SQL and Python for tasks such as data extraction, transformation, and loading (ETL) as well as in-depth data analysis.</p>
+<p>I'm an Analytics Engineer with a background on System Analysis and Development, currently working as a Data Scientist at SETE Serviços </b>. During my career, I've been using extense Power BI as my primary tool for data analysis. Additionally, I have proficiently in SQL and Python for tasks such as data extraction, transformation, and loading (ETL/ELT) as well as in-depth data analysis.</p>
 
 <!--<p><strong>Versão em Português</strong></p>
-<p>Sou um Engenheiro de Dados/Analytics Engineer com formação em Análise e Desenvolvimento de Sistemas. Tenho um ano de experiência prática trabalhando como Analista de Dados. Durante esse período, utilizei amplamente o Power BI como minha principal ferramenta para análise de dados. Além disso, utilizei SQL e Python para tarefas como extração, transformação e carga de dados (ETL), bem como uma análise detalhada dos dados obtidos para trazer maior valor como informação.</p>
+<p>Sou Analytics Engineer com formação em Análise e Desenvolvimento de Sistemas, atualmente trabalhando como Cientista de Dados na SETE Serviços. Durante a minha carreira, venho utilizando amplamente o Power BI como minha principal ferramenta para análise de dados. Além disso, utilizei SQL e Python para tarefas como extração, transformação e carga de dados (ETL), bem como uma análise detalhada dos dados obtidos para trazer maior valor como informação.</p>
 -->
 
 <div style="display: inline_block"><br>
