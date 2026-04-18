@@ -5,3 +5,12 @@
 <!--<p><strong>Versão em Português</strong></p>
 <p>Sou Analytics Engineer com formação em Análise e Desenvolvimento de Sistemas, atualmente trabalhando como Cientista de Dados na SETE Serviços. Durante a minha carreira, venho utilizando amplamente o Power BI como minha principal ferramenta para análise de dados. Além disso, utilizei SQL e Python para tarefas como extração, transformação e carga de dados (ETL), bem como uma análise detalhada dos dados obtidos para trazer maior valor como informação.</p>
 -->
+
+## Skills
+
+    Programming Languages: SQL, PL/SQL, PL/pgSQL, T-SQL, Python
+    Databases: Oracle Database, PostgreSQL, SQL Server
+    Cloud: Oracle Cloud Infrastructure (OCI), AWS (S3, EC2, Lambda)
+    Platforms: Oracle APEX, Databricks, Power BI
+    Tools: Git, GitHub, Docker
+    Languages: English (C1 - CEFR), Portuguese (Native)
